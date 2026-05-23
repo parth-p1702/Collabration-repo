@@ -37,3 +37,7 @@ body {
 .main button:active{
   scale: 0.95;
 }
+
+.main button:hover{
+  box-shadow: 2px 2px 5px  #232323;
+}
