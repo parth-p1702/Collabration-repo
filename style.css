@@ -35,7 +35,11 @@ body {
 }
 
 .main button:active{
-  scale: 0.95;
+  width: 80px;
+  height: 40px;
+  background-color: lightblue;
+  scale: 0.9;
+  transition: width 3s, height 3s;
 }
 
 .main button:hover{
